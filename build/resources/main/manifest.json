@@ -1,0 +1,19 @@
+{
+  "Group": "com.hccore",
+  "Name": "HC_Core",
+  "Version": "1.0.0",
+  "Description": "Centralized database pool, settings, and schema migrations for HC plugins",
+  "Authors": [
+    {
+      "Name": "Server Admin"
+    }
+  ],
+  "ServerVersion": "0.0.2",
+  "Dependencies": {
+    "Hytale:EntityModule": "*"
+  },
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.hccore.HC_CorePlugin",
+  "IncludesAssetPack": false
+}
